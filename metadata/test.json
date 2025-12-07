@@ -1,0 +1,1216 @@
+{
+  "data": [
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00003_0.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00003_1.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00003_2.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00024_0.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00024_1.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00024_2.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00041_0.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00041_1.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00041_2.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00059_0.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00059_1.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00059_2.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00088_0.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00088_1.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00088_2.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00037_0.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00037_1.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00037_2.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00033_0.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00033_1.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00033_2.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00052_0.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00052_1.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00052_2.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00008_0.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00008_1.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00008_2.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00058_0.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00058_1.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/blues/blues.00058_2.wav",
+      "labels": "blues"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00035_0.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00035_1.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00035_2.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00000_0.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00000_1.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00000_2.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00098_0.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00098_1.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00098_2.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00054_0.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00054_1.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00054_2.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00034_0.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00034_1.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00034_2.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00099_0.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00099_1.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00099_2.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00066_0.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00066_1.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00066_2.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00071_0.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00071_1.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00071_2.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00070_0.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00070_1.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00070_2.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00065_0.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00065_1.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/classical/classical.00065_2.wav",
+      "labels": "classical"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00084_0.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00084_1.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00084_2.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00025_0.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00025_1.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00025_2.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00094_0.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00094_1.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00094_2.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00030_0.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00030_1.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00030_2.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00032_0.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00032_1.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00032_2.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00071_0.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00071_1.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00071_2.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00067_0.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00067_1.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00067_2.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00019_0.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00019_1.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00019_2.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00043_0.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00043_1.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00043_2.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00027_0.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00027_1.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/country/country.00027_2.wav",
+      "labels": "country"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00092_0.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00092_1.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00092_2.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00080_0.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00080_1.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00080_2.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00011_0.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00011_1.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00011_2.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00056_0.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00056_1.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00056_2.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00070_0.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00070_1.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00070_2.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00004_0.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00004_1.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00004_2.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00006_0.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00006_1.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00006_2.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00047_0.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00047_1.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00047_2.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00031_0.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00031_1.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00031_2.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00021_0.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00021_1.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/disco/disco.00021_2.wav",
+      "labels": "disco"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00078_0.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00078_1.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00078_2.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00041_0.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00041_1.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00041_2.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00050_0.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00050_1.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00050_2.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00004_0.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00004_1.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00004_2.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00046_0.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00046_1.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00046_2.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00016_0.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00016_1.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00016_2.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00014_0.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00014_1.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00014_2.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00072_0.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00072_1.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00072_2.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00051_0.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00051_1.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00051_2.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00037_0.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00037_1.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/hiphop/hiphop.00037_2.wav",
+      "labels": "hiphop"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00096_0.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00096_1.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00096_2.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00041_0.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00041_1.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00041_2.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00066_0.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00066_1.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00066_2.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00059_0.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00059_1.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00059_2.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00047_0.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00047_1.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00047_2.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00007_0.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00007_1.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00007_2.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00005_0.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00005_1.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00005_2.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00098_0.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00098_1.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00098_2.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00086_0.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00086_1.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00086_2.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00015_0.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00015_1.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00015_2.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00068_0.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00068_1.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/jazz/jazz.00068_2.wav",
+      "labels": "jazz"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00053_0.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00053_1.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00053_2.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00088_0.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00088_1.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00088_2.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00062_0.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00062_1.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00062_2.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00086_0.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00086_1.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00086_2.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00028_0.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00028_1.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00028_2.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00029_0.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00029_1.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00029_2.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00010_0.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00010_1.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00010_2.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00087_0.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00087_1.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00087_2.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00036_0.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00036_1.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00036_2.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00016_0.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00016_1.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/metal/metal.00016_2.wav",
+      "labels": "metal"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00051_0.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00051_1.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00051_2.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00089_0.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00089_1.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00089_2.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00086_0.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00086_1.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00086_2.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00045_0.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00045_1.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00045_2.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00024_0.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00024_1.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00024_2.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00066_0.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00066_1.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00066_2.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00049_0.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00049_1.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00049_2.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00063_0.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00063_1.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00063_2.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00064_0.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00064_1.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00064_2.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00048_0.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00048_1.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/pop/pop.00048_2.wav",
+      "labels": "pop"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00076_0.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00076_1.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00076_2.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00048_0.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00048_1.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00048_2.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00040_0.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00040_1.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00040_2.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00004_0.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00004_1.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00004_2.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00036_0.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00036_1.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00036_2.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00037_0.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00037_1.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00037_2.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00098_0.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00098_1.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00098_2.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00054_0.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00054_1.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00054_2.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00006_0.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00006_1.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00006_2.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00078_0.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00078_1.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/reggae/reggae.00078_2.wav",
+      "labels": "reggae"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00045_0.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00045_1.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00045_2.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00024_0.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00024_1.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00024_2.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00039_0.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00039_1.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00039_2.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00034_0.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00034_1.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00034_2.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00076_0.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00076_1.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00076_2.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00018_0.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00018_1.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00018_2.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00062_0.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00062_1.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00062_2.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00059_0.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00059_1.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00059_2.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00057_0.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00057_1.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00057_2.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00090_0.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00090_1.wav",
+      "labels": "rock"
+    },
+    {
+      "wav": "./data/gtzan_10s/rock/rock.00090_2.wav",
+      "labels": "rock"
+    }
+  ]
+}
